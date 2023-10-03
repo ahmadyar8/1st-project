@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+    
+}
+.dp {
+width: 100px;
+clip-path: circle();
+}
+
+header {
+    text-align: center;
+
+}
+.dp{ text-align: center;
+    border-radius: 50%;
+    margin: 0 auto;
+    padding: 0 auto;
+    width: auto;
+    height: auto;
+}
